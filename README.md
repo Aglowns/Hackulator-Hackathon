@@ -72,3 +72,6 @@ npm run preview
 - **TypeScript** - Type safety and better DX
 - **CSS** - Custom styling with theme support
 - **No external dependencies** - Pure JavaScript evaluation
+
+## Try it out 
+https://aglowns.github.io/Hackulator-Hackathon/

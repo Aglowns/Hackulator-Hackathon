@@ -72,6 +72,8 @@ npm run preview
 - **TypeScript** - Type safety and better DX
 - **CSS** - Custom styling with theme support
 - **No external dependencies** - Pure JavaScript evaluation
+## Problems Encounterned 
+- Tokens from CHATGPT- the tokens on the AI part isn't working well and it will be updated later in the future. 
 
 ## Try it out 
 https://aglowns.github.io/Hackulator-Hackathon/
